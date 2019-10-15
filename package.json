@@ -1,0 +1,15 @@
+{
+  "name": "robot-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jasiek/frontend.git",
+  "author": "Jan Szumiec <jan.szumiec@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gamepad.js": "^0.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
