@@ -1,4 +1,9 @@
-var rg = require("responsive-gamepad");
+import 'gamepad.js';
 
-console.log(getState());
+window.listener = new GamepadListener({
+    analog: false,
+    deadZone: 0.3
+});
+
+
 
