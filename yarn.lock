@@ -2825,6 +2825,11 @@ isstream@~0.1.2:
   resolved "https://registry.yarnpkg.com/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
   integrity sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=
 
+joypad.js@^1.2.9:
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/joypad.js/-/joypad.js-1.2.9.tgz#e2d3359b55298f474af412c92d0b7ed7a50ea22a"
+  integrity sha512-1C2E8jc6q2y2lAJ37C2lXhdlZpDnA/NY2ftKA0iHsOfwQBmyfXvOjlt8XmrWnytbxeA21D+Kp5v2OHavPfrASQ==
+
 js-levenshtein@^1.1.3:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/js-levenshtein/-/js-levenshtein-1.1.6.tgz#c6cee58eb3550372df8deb85fad5ce66ce01d59d"

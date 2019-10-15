@@ -1,9 +1,6 @@
-import 'gamepad.js';
-
-window.listener = new GamepadListener({
-    analog: false,
-    deadZone: 0.3
+import 'joypad.js';
+joypad.on('connect', e => {
+    const { id } = e.gamepad;
+ 
+    console.log(`${id} connected!`);
 });
-
-
-
